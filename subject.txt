@@ -1,0 +1,13 @@
+Sujet :
+
+User Story :
+En tant que voyageur,
+Je souhaite réserver un Uber afin de me rendre d'un point A à un point B
+De sorte à assurer mon rendez-vous.
+
+RDG :
+- Un voyage de Paris vers l'extérieur coûte 50 euros
+- Un voyage de l'extérieur vers Paris est gratuit
+- Un voyage intra-muros (dans Paris) coûte 30 euros
+- Si c'est ton anniversaire, tu as un avoir de 32 euros utilisable tout de suite.
+- Tu ne peux pas annuler le Uber une fois en route.
